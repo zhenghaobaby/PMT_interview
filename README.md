@@ -1,6 +1,6 @@
 # READ ME
 
-[TOC]
+first, every code i submit is changeable, that means it applies a type of question. you can change the data or some place you should change(for example, the industry code you need or how many industries you have)
 
 ## code
 

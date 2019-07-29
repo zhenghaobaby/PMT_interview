@@ -2,7 +2,7 @@ close all; clear all; clc
 load('firmSpecific.mat');
 load('firmList.mat');
 
-Financial_code = 10008;
+Financial_code = 10008; % you can change the code here
 industry_code = firmList(:,2);
 
 Fin_flag = (industry_code== Financial_code);
